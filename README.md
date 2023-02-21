@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-✨ Have a super day ✨
-- 🌱 I’m currently working on my self 
-- 📫 How to reach me: ig: [namsrai.kh](https://www.instagram.com/namsrai.kh/)
-If you found this repository helpful, consider supporting me with a coffee or two through [Buy Me a Coffee](https://buymeacoffee.com/dokind) or become a Your support helps keep the development of this repository going!
-::
-<DOKIND>
+- Follow me on [Twitter](https://twitter.com/yourusername) :bird:
+- Connect with me on [LinkedIn](https://linkedin.com/in/yourusername) :briefcase:
+- Subscribe to my [YouTube channel](https://www.youtube.com/channel/yourchannelname) :tv:
+- Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) :coffee:
+- Check out my [Instagram](https://www.instagram.com/yourusername/) for more information :camera:
+- Visit my personal [website](https://yourwebsite.com) :globe_with_meridians:
