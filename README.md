@@ -3,8 +3,13 @@
 Hi there! My name is [Your Name], and this is my personal repository on GitHub. Here you can find some of my projects, skills, and interests.
 
 ## Skills
-
-- Programming Languages: [list your programming skills] :computer:
+    
+- Programming Languages: [
+ Dart :dart:
+ JavaScript :javascript:
+ HTML :html5:
+ CSS :css3:
+ React :atom: Next.js :globe_with_meridians:] :computer:
 - Web Technologies: [list your web development skills] :globe_with_meridians:
 - Database Technologies: [list your database skills] :floppy_disk:
 - Operating Systems: [list your operating system skills] :desktop_computer:
