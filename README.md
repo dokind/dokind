@@ -1,7 +1,7 @@
 
 # About Me
 
-Hi there! My name is [Your Name], and this is my personal repository on GitHub. Here you can find some of my projects, skills, and interests.
+Hi there! My name is Namsrai, and this is my personal repository on GitHub. Here you can find some of my projects, skills, and interests.
 
 ## Skills
 - Flutter :iphone:
