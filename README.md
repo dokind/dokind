@@ -13,13 +13,11 @@ Hi there! My name is Namsrai, and this is my personal repository on GitHub. Here
 Apart from programming, I am interested in [list your interests] :books:
 
 ## Connect with Me
-- Follow me on [Twitter](https://twitter.com/yourusername) :bird:
-- Connect with me on [LinkedIn](https://linkedin.com/in/yourusername) :briefcase:
-- Subscribe to my [YouTube channel](https://www.youtube.com/channel/yourchannelname) :tv:
-- Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) :coffee:
-- Check out my [Instagram](https://www.instagram.com/yourusername/) for more information :camera:
-- Visit my personal [website](https://yourwebsite.com) :globe_with_meridians:
+- Subscribe to my [YouTube channel](https://www.youtube.com/channel/namsrai.kh) :tv:
+- Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/dokind) :coffee:
+- Check out my [Instagram](https://www.instagram.com/namsrai.kh) for more information :camera:
 good to go and bye
+GG
 GG
 GG
 GG
