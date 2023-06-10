@@ -2,7 +2,9 @@
 # About Me
 
 Hi there! My name is Namsrai, and this is my personal repository on GitHub. Here you can find some of my projects, skills, and interests.
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dokind)](https://git.io/streak-stats)
+
+
+
 
 ## Skills
 - Flutter :iphone:
@@ -18,8 +20,5 @@ Apart from programming, I am interested in [list your interests] :books:
 - Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/dokind) :coffee:
 - Check out my [Instagram](https://www.instagram.com/namsrai.kh) for more information :camera:
 good to go and bye
-GG
-GG
-GG
-GG
-GG
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dokind)](https://git.io/streak-stats)
