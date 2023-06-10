@@ -2,6 +2,7 @@
 # About Me
 
 Hi there! My name is Namsrai, and this is my personal repository on GitHub. Here you can find some of my projects, skills, and interests.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dokind)](https://git.io/streak-stats)
 
 ## Skills
 - Flutter :iphone:
