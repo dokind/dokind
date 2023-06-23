@@ -20,5 +20,3 @@ Apart from programming, I am interested in [list your interests] :books:
 - Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/dokind) :coffee:
 - Check out my [Instagram](https://www.instagram.com/namsrai.kh) for more information :camera:
 good to go and bye
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dokind)](https://git.io/streak-stats)
