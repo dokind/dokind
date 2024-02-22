@@ -6,14 +6,14 @@ Hi there! My name is Namka
 ## Connect with Me
 - Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCD-29Lf4DJDcpKoZ38gIB3Q?sub_confirmation=1) :tv:
 - Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/dokind) :coffee:
-- Check out my [Instagram](https://www.instagram.com/namsrai.kh) for more information :camera:
+- Check out my [Instagram](https://www.instagram.com/dokinds) for more information :camera:
 good to go and bye
 
  <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left"Hi there! My name is Namka
+<p align="left"Hi there! My name is dokind and I productizing myself
 
 ###
 
