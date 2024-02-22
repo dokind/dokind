@@ -23,7 +23,7 @@ good to go and bye
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,appwrite,nestjs,nextjs,firebase,figma,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,appwrite,nestjs,nextjs,firebase,git&theme=dark" />
   </a>
  
 </div>
