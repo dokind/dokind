@@ -1,17 +1,7 @@
 
-# About Me
-
-Hi there! My name is Namka
-
-## Connect with Me
-- Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCD-29Lf4DJDcpKoZ38gIB3Q?sub_confirmation=1) :tv:
-- Support me on [Buy Me a Coffee](https://www.buymeacoffee.com/dokind) :coffee:
-- Check out my [Instagram](https://www.instagram.com/dokinds)
- <h1 align="left" style="color:white;" >Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left"Hi there! My name is dokind and I productizing myself
+<p align="left"Hi there! My name is Namsrai "dokind" Khatanbaatar and ready to write HTML
 
 ###
 
@@ -42,7 +32,6 @@ Hi there! My name is Namka
   <a href="https://flutterwithdokind@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  
 </div>
 
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
