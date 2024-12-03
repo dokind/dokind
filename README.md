@@ -23,14 +23,11 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/dokinds" target="_blank">
+  <a href="https://instagram.com/namsrai.kh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCD-29Lf4DJDcpKoZ38gIB3Q?sub_confirmation=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://flutterwithdokind@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
